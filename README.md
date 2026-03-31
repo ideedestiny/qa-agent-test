@@ -1,2 +1,1 @@
-print(f"  DEBUG: '.py' in diff: {'.py' in response.text}")
-    print(f"  DEBUG: diff preview: {response.text[:200]}")
+lets try editing this and see if it works
